@@ -1,0 +1,2000 @@
+ls
+utserver cd ..
+cd ..
+cd /etc/bin
+cd utorrent-server-alpha-v3_3/
+ls
+cd ..
+sudo chmod -R 777 utorrent-server-alpha-v3_3/
+ls
+cd utorrent-server-alpha-v3_3/
+ls
+ust
+utserver 
+ls
+cd /etc/init/
+ls
+sudo apt-get update
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+utserver &
+cd ..
+ls
+sudo chmod -R 777 utorrent-server-alpha-v3_3/
+ls
+cd utorrent-server-alpha-v3_3/
+ls
+df
+sudo nano utserver
+sudo nano utserver.conf 
+sudo killall -int utserver
+utserver -configfile /opt/utorrent-server-alpha-v3_3/utserver.conf 
+utserver -&
+utserver &
+ls
+df
+sudo rm -rf ~/.local/share/Trash/*
+ls
+cd General\ Networking\ -\ wireless\,\ routers\,\ firewalls\,\ Cisco\ NAS/
+ls
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+tar 
+tar --help
+tar -cf General\ Networking\ -\ wireless\,\ routers\,\ firewalls\,\ Cisco\ NAS/
+tar -cvf General\ Networking\ -\ wireless\,\ routers\,\ firewalls\,\ Cisco\ NAS/
+tar -cvf net.tar.gz General\ Networking\ -\ wireless\,\ routers\,\ firewalls\,\ Cisco\ NAS/
+ls
+df
+mv net.tar.gz /usr/share/nginx/html/
+ls
+df
+ls
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+exit
+proxy
+exit
+ld
+ls
+sudo killall -int proxy
+sudo netstat -tulpn
+exit
+wget https://raw.githubusercontent.com/luugiathuy/WebProxyPython/master/proxy.py
+ls
+python proxy.py 9000
+sudo python proxy.py 9000
+sudo killall -int proxy
+ls
+sudo python proxy.py 9000
+netstat -tulpn
+sudo python proxy.py 9000
+wget https://github.com/senko/tornado-proxy/archive/master.zip
+ls
+unzip master.zip 
+l
+cd tornado-proxy-master/
+ls
+
+python setup.py test
+python setup.py install
+sudo python setup.py install
+python tornado_proxy/proxy.py 8888
+sudo python tornado_prox
+sudo python setup.py test
+cd ..
+sudo chmod -R 777 tornado-proxy-master/
+ls
+cd tornado-proxy-master/
+ls
+python tornado_proxy/proxy.py 8888
+cd tornado_proxy/
+ls
+sudo python proxy.py 9000
+python -v
+sudo apt-get install python-pycurl
+wget https://pypi.python.org/packages/source/t/tornado/tornado-2.2.1.tar.gz
+ls
+tar -xvf tornado-2.2.1.tar.gz 
+ls
+cd tornado-2.2.1/
+ls
+python setup.py 
+python setup.py install
+sudo python setup.py install
+cd ..
+ls
+python proxy.py 9000
+sudo python proxy.py 9000
+cd ..
+ls
+sudo python setup.py install
+python tornado_proxy/proxy.py 8888
+sudo python tornado_proxy/proxy.py 8888
+sudo python tornado_proxy/proxy.py 9000
+sudo apt-get install nodejs
+sudo apt-get install npm
+sudo -s
+proxy
+cd ..
+cd..
+proxy
+sudo -s
+ls
+proxy
+cat>proxy
+node 
+sudo apt-get install nodejs-legacy 
+node
+node proxy 9000
+sudo apt-get install nodejs-legacy 
+cat>proxy
+node proxy 
+$ npm install -g proxy
+sudo npm install -g proxy
+proxy
+sudo proxy 
+sudo proxy --port 9000
+ls
+cd /
+ls
+sudo proxy --port 9000
+ls
+cd ..
+df
+cd ~/
+ls
+cat proxy
+cat>proxy
+cat proxy
+
+sudo nano proxy
+proxy
+
+sudo nano proxy
+sudo mv proxy proxybynodejs
+sudo node proxybynodejs 
+proxy
+sudo proxy --port 9000
+ls
+sudo npm
+sudo npm -r
+sudo npm -r proxy
+sudo proxy --port 9000
+npm uninstall -g proxy
+sudo npm uninstall -g proxy
+ls
+sudo npm  -g proxy
+sudo npm  install -g proxy
+sudo proxy --port 9000
+sudo proxy --port 9000 -d
+sudo proxy --port 9000 &
+ls
+netstat -tulpn
+sudo killall -int proxy
+netstat -tulpn
+sudo proxy --port 9000 &
+ls
+speedtest-cli
+..speedtest-cli
+./speedtest-cli
+sudo apt-ge update
+sudo apt-get update
+exit
+sudo proxy
+sudo proxy --port 9000
+sudo proxy --port 9000 &
+sudo killall -int  proxy
+sudo proxy --port 9000
+sudo proxy --port 9000 &
+cg
+kill 9 22659
+kill -9 22659
+sudo kill -9 22659
+htop
+sudp sarg -x
+sudo sarg -c
+sudo sarg -x
+sudo nano /etc/squid3/squid.conf
+sudo squid -k parse
+sudo squid4 -k parse
+sudo squid3 -k parse
+sudo servuce squid3 restart
+sudo service squid3 restart
+qut
+shutdown
+quit
+exit
+sudo wget http://www.cse.psu.edu/~kxm85/software/GTgraph/GTgraph.tar.gz
+htop
+tar -xvf GTgraph.tar.gz 
+cd GTgraph/
+ls
+sudo configure
+sudo make
+sudo make rmat
+clear
+sudo make rmat
+icc
+sudo apt-get install  ia32-libs
+sudo apt-get install build-essential
+ls
+sudo apt-get install  ia32-libs
+find / -name icc -executable
+sudo find / -name icc -executable
+export PATH="$PATH:/usr/share/color/icc"
+ls
+sudo make rmat
+icc
+./icc
+sudo export PATH="$PATH:/usr/share/color/icc"
+sudo apt-get install clang
+cc
+make
+make Rmat
+make rmat
+cd GTgraph/
+ls
+sudo make
+sudo make rmat
+icc
+sudo apt-get remove clang
+ls
+cd R-MAT/
+ls
+make
+sudo configure
+Makefile
+cd ..
+rm -r GTgraph
+ls
+wget https://github.com/dhruvbird/GTgraph/archive/master.zip
+ls
+sudo unzip master.zip 
+sudo unzip master.zip.1
+cd GTgraph-master/
+ls
+sudo make
+ls
+cd R-MAT/
+ls
+./GTgraph-rmat 
+./GTgraph-rmat  -n 10 -m 10 -o a.txt
+ls
+./GTgraph-rmat -c config.me
+sudo nano config.me
+./GTgraph-rmat -c config.me
+./GTgraph-rmat
+./GTgraph-rmat -c config.me  -n 10 -m 10 -0 a.txt
+cd ..
+sudo make
+ls
+cd ..
+sudo chmod -R 777 GTgraph-master/
+cd GTgraph-master/ls
+cd GTgraph-master/
+ls
+cd R-MAT/
+ls
+python rmat-2-custom.py 
+./GTgraph-rmat 
+sudo nano config.cc
+sudo nano config.me
+./GTgraph-rmat -n 10 -m 10 -o a.txt
+ls
+sudo nano a.txt
+cd ..
+sudo tar -xvf GTgraph-master/ Gt.tar.gz
+sudo tar -xvf Gt.tar.gz GTgraph-master/ 
+sudo tar -xvf  GTgraph-master/ 
+sudo tar -xf  GTgraph-master/ 
+sudo tar -xvf  GTgraph-master
+ls
+sudo tar -xvf  GTgraph-master
+tar -zvxf RMAT.tar.gz GTgraph-master
+tar -zvxf GTgraph-master
+tar -zvxf GTgraph-master > G.ta
+ls
+tar -czvf a.tar.gz GTgraph-master/
+ls
+tar -zvf a.tar.gz GTgraph-master/
+mv a.tar.gz /usr/share/nginx/html/
+sudo chmod -R 777 /usr/share/nginx/html
+sudo chmod -R 777 /usr/share/nginx/html/
+ls
+cd GTgraph-master/
+ls
+cd R-MAT/
+ls
+./GTgraph-rmat 
+./GTgraph-rmat -n 50 -m 50 -0 a.txt
+./GTgraph-rmat -n 50 -m 50 -o a.txt
+nano a.txt
+ls
+cd GTgraph-master/
+ls
+cd R-MAT/
+ls
+./GTgraph-rmat 
+sudo nano config
+sudo nano config.me
+./GTgraph-rmat 
+sudo nano config.me
+./GTgraph-rmat -c config.me -o a.txt
+sudo nano a.txt
+ls
+ls -l
+mv a.txt /usr/share/nginx/html/
+ls
+sudo chmod -R 777 /usr/share/nginx/html/
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+wget http://www.ece.cmu.edu/~spiral/software/sp_v28.tgz
+sudo tar -xvf sp_v28.tgz sp_v28/
+ls
+cd sp_v28/
+ls
+make
+sudo make
+cd ..
+rm * sp_v28
+sudo rm * sp_v28
+sudo rm sp_v28/
+ls
+cd /
+ls
+cd home
+ls
+sudo sarg -x
+ls
+dir
+cd GTgraph-master/
+cd R-MAT/
+ls
+sudo ./GTgraph-rmat 
+sudo nano config.me
+sudo ./GTgraph-rmat -c config.me 
+sudo ./GTgraph-rmat -c config.me -o a.txt
+mv a.txt /usr/share/nginx/html/
+sudo reboot
+sudo service start xrdp
+sudo service xrdp start
+sudo service lightdm start
+sudo service xrdp stop
+sudo service remove xrdp
+sudo apt-get  xrdp stop
+sudo apt-get remove xrdp
+sudo apt-get install xrdp 
+sudo apt-get install gnome-session-fallback
+sudo apt-get install xfce4
+echo xfce4-session >~/.xsession
+sudo service xrdp restart 
+sudo apt-get purge xfce4
+sudo apt-get remove xfce4
+sudo dpkg -i xfce4
+sudo apt-get remove xfce4
+sudo apt-get purge xdrp
+sudo service xrdp stop
+sudo service
+sudo apt-get purge xdrp
+sudo apt-get purge xrdp
+sudo apt-get autoremove  xrdp
+sudo apt-get purge  xrdp
+sudo apt-get install xrdp
+ps
+psps -eo size,pid,user,command | sort -k1 -rn | head -10
+ps -eo size,pid,user,command | sort -k1 -rn | head -10
+htop
+sysinfo
+sudo apt-get install sys-info
+sudo apt-get install sysinfo
+whoami
+about
+verison
+ubuntu
+gnome-session 
+gnome-session gnome-session --session=gnome-classic
+gnome-session --session=gnome-classic
+echo mate-session >~/.xsession
+sudo service xrdp restart
+suo nano /etc/xrdp/sesman.ini 
+sudo nano /etc/xrdp/sesman.ini 
+sudo apt-get install ubuntu-mate-core ubuntu-mate-desktop
+cd ..
+cd /
+cd /home/praba/
+ls
+nano .xsession
+sudo nano .xsession
+cd ~/
+ls
+sudo nano .xsession
+sudo service xrdp restart
+sudo apt-get install xfce4-terminal
+sudo apt-get install gnome-icon-theme-full tango-icon-theme
+sudo apt-get install xfce4-terminal
+sudo apt-get install xfce4
+sudo apt-get install xfce4-terminal
+sudo apt-get install gnome-icon-theme-full tango-icon-theme
+echo xfce4-session >~/.xsession
+cd /home/praba/
+echo xfce4-session >~/.xsession
+ls
+ls -l
+ls -la
+nano /etc/xrdp/startwm.sh
+sudo nano /etc/xrdp/startwm.sh
+sudo service xrdp restart
+nano /etc/xrdp/startwm.sh
+sudo nano /etc/xrdp/startwm.sh
+sudo service xrdp restart
+sudo service xrdp rstop
+sudo service xrdp stop
+sudo killall -int xrdp
+sudo service xrdp restart
+sudo service xrdp stop
+sudo service xrdp start
+df
+sudo service xrdp start
+nano /etc/xrdp/startwm.sh
+sudo nano /etc/xrdp/startwm.sh
+sudo service xrdp start
+sudo service xrdp stop
+sudo service xrdp restart
+reboot
+sudo reboot
+ls
+sudo service xrdp start
+sudo apt-get install gnome-session-fallback
+echo xfce4-session >~/.xsession
+sudo echo xfce4-session >~/.xsession
+ls
+sudo nano .xsession 
+cd /home/praba/
+echo xfce4-session >~/.xsession
+sudo apt-get install  xfce4*
+echo xfce4-session >~/.xsession
+sudo apt-get autoremove xfce4*
+sudo apt-get purge xfce4*
+echo gnome-session –session=Ubuntu-2d >~/.xsession
+cd /home/ubuntu/
+echo gnome-session –session=Ubuntu-2d >~/.xsession
+sudo nano /etc/xrdp/startwm.sh
+sudo service xrdp restart
+sudo service xrdp r
+sudo service xrdp 
+sudo service xrdp status
+sudo service xrdp stop
+sudo service xrdp stats
+sudo service xrdp status
+sudo service xrdp restart
+sudo service xrdp status
+sudo killall -int xrdp
+sudo service xrdp restart
+sudo reboot
+ls
+sudo service xrdp start
+sudo nano /etc/xrdp/startwm.sh
+ls -la
+sudo service xrdp restart
+sudo apt-get install gnome-session-fallback
+echo “gnome-session -–session=gnome-fallback” > ~/.xsession
+sudo /etc/init.d/xrdp restart
+cd /home/praba
+echo “gnome-session -–session=gnome-fallback” > ~/.xsession
+sudo /etc/init.d/xrdp restart
+sudo /etc/xrdp/startwm.sh
+sudo /etc/xrdp/startwm.sh 
+sudo nano /etc/xrdp/startwm.sh 
+sudo /etc/init.d/xrdp restart
+echo xfce4-session > ~/.xsession
+sudo /etc/init.d/xrdp restart
+echo xfce4-session > .xsession
+sudo echo xfce4-session > .xsession
+sudo /etc/init.d/xrdp stop
+sudo echo xfce4-session > .xsession
+sudo nano .xsession
+echo xfce4-session > ~/.xsession
+sudo apt-get autoremove gnome-session-fallback
+sudo apt-get purge gnome-session-fallback
+sudo apt-get install xfce4
+echo xfce4-session > ~/.xsession
+sudo nano .xsession
+sudo /etc/init.d/xrdp restart
+exit
+sudo service xrdp strat
+sudo service xrdp start
+sudo dpkg -i google-chrome-beta_current_amd64.deb 
+sudo apt-get install fonts-liberation
+sudo dpkg -r google-chrome-beta 
+sudo apt-get install googlefontdirectory-tools 
+sudo dpkg -i google-chrome-beta_current_amd64.deb 
+sudo dpkg -f google-chrome-beta_current_amd64.deb 
+sudo apt-get autoremove xfc4
+sudo apt-get autoremove xcf4
+sudo apt-get autoremove xfc4
+sudo apt-get autoremove xfce4
+sudo apt-get -remove 
+sudo apt-get remove google-chrome-beta 
+sudo apt-get autoremove google-chrome-beta 
+sudo apt-get purge  google-chrome-beta 
+sudo apt-get autoremove googlefontdirectory-tools 
+sudo apt-get autoremove xfce4
+sudo apt-get purge xfce4
+sudo apt-get remove xrdp
+sudo apt-get purge xrdp
+ls
+sudo service lightdm stop
+htop
+sudo dpkg -r 
+ls
+df
+sudo rm -rf ~/.local/share/Trash/*
+df
+du -sh * | sort -hr | head -n10
+cd /
+sudo du -sh * | sort -hr | head -n10
+cd /
+ls
+cd /
+du -sh * | sort -hr | head -n10
+sudo du -sh * | sort -hr | head -n10
+cd /usr
+ls
+sudo du -sh * | sort -hr | head -n10
+sudo wget http://download.nomachine.com/download/5.0/Linux/nomachine_5.0.63_1_amd64.deb
+ls
+sudo dpkg -i nomachine_5.0.63_1_amd64.deb 
+df
+ls
+htop
+kill 2307
+sudo kill 2307
+kill 2307
+htop
+sudo service nxserver stop
+sudo service nxserver start
+htop
+[Asudo nano /usr/NX/etc/server
+sudo nano /usr/NX/etc/server.cfg 
+sudo netstat tupnl
+sudo nano /usr/NX/etc/server.cfg 
+htop
+sudo service nxserver stop
+htop
+sudo service nxserver stop
+sudo apt-get autoremove nomachine 
+sudo apt-get purge nomachine 
+sudo apt-get autoremove ubuntu-desktop 
+sudo service lightdm stop
+sudo apt-get autoremove ubuntu-desktop 
+sudo apt-get 
+sudo apt-get purge ubuntu-desktop 
+ls
+sudo apt-get autoremove lightdm 
+sudo apt-get purge ubuntu-desktop unity unity-greeter && sudo apt-get autoremove
+ls
+df
+sudo apt-get purge ubuntu-desktop unity unity-greeter && sudo apt-get autoremove
+l
+rm -rf ~/.local/share/Trash/*
+sudo rm -rf ~/.local/share/Trash/*
+htop
+sudo service tinyproxy stop
+htop
+restart
+sudo reboot
+htop
+sudo service tinyproxy stop
+htop
+sudo service squid3 restart
+htop
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+s
+sudo ./utserver -configFile utserver.conf 
+sudo ./utserver -configFile utserver.conf -d
+sudo ./utserver -configFile utserver.conf &
+sudo killall -int utserver 
+sudo ./utserver 
+sudo netstat -tupln
+sudo netstat -tupnl
+sudo nano utserver.conf 
+./utserver
+htop
+sudo ./utserver &
+df
+proxy
+ls
+cd tornado-proxy-master/
+ls
+cd ..
+ls
+proxy 
+proxy ls -l
+proxy ls -la
+ls -la
+nodejs proxy
+nodejs proxy 900
+nodejs proxy 9000
+ls
+cd sp_v28/
+ls
+cd ..
+rm -r sp_v28/
+sudo rm -r sp_v28/
+ls
+cd /home/praba
+ls
+cd ~/
+cat proxy.js
+sudo cat>proxy.js
+ls
+sudo node proxy.js 
+cat proxy.js 
+sudo nano proxy.js 
+sudo node proxy.js 
+sudo proxy 
+sudo proxy help
+sudo proxy 9000
+sudo proxy --port=8000
+nodejs proxy
+cd GTgraph-master/
+node
+node proxy
+sudo node http-proxy
+sudo node http-proxy --port=8000
+sudo node proxy --port=8000
+sudo proxy --port=8000
+sudo sarg -x
+cd /var
+ls
+cd cache/
+ls
+cd..
+cd ..
+ls
+cd var
+ls
+cd ww
+cd www
+ls
+cd ..
+ls
+cd us
+cd usr
+ls
+cd ..
+cd var
+ls
+sudo nano /etc/squid3/squid.conf
+sudo nano /etc/sarg/sarg.conf
+cd var/log
+cd log
+ls
+cd squid3/
+ls
+nano access.log
+sudo nano access.log
+sudo nano access.log.1 
+sudo nano access.log
+sudo nano access.log.1 
+sudo nano access.log
+sudo nano access.log.1 
+sudo nano access.log
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+cd var
+ls
+cd /var
+ls
+cd log
+ls
+cd squid3/
+sudo nano access.log
+sudo nano access.log.1
+sudo nano access.log
+sudo nano access.log.1
+sudo nano access.log
+sudo tar -cvf acc.tar.gz acces*
+ls
+mv acc.tar.gz /usr/share/nginx/html/
+sudo mv acc.tar.gz /usr/share/nginx/html/
+cd /
+cd usr/share/
+ls
+cd nginx/
+sudo chmod -R 777 html/
+sudo nano /etc/squid3/squid.conf
+sudo service nginx restart
+sudo service squid3 restart
+wget https://fs-stg-7.filestream.me/stream/56b4b44de4b082ac2607f2d4?st=9OWsLsaQ8k4mvtZ5oL-O2g&e=1455304636&u=1e4xNpEYh5NWKcxyrDmWf5eiAbzUfwnVZ38uGw==
+wget https://fs-stg-7.filestream.me/stream/56b4b4eee4b05520495a4508?st=k7S_jC7-54M3ZXbTo0Mxqw&e=1455304835&u=1e4xNpEYh5NWKcxyrDmWf5eiAbzUfwnVZ38uGw==
+sudo wget https://fs-stg-7.filestream.me/stream/56b4b4eee4b05520495a4508?st=k7S_jC7-54M3ZXbTo0Mxqw&e=1455304835&u=1e4xNpEYh5NWKcxyrDmWf5eiAbzUfwnVZ38uGw==
+sudo dh -f
+df
+sudo nano /etc/squid3/squid.conf
+sudo service restart squid3
+sudo service squid3 restart
+cd var
+cd /var
+ls
+cd cache
+ls
+cd ..
+ls
+cd www
+ls
+cd ..
+ls
+cd backups/
+cd ..
+cd log
+ls
+cd squid3/
+ls
+sudo tail cache.log
+sudo tail access.log.1
+sudo tail access.log
+clear
+ls
+cd ..
+sudo nano /etc/squid3/squid.conf
+sudo service restart squid3
+sudo service squid3 restart
+cd Major
+mkdir major
+ls
+cat rmat.txt
+cat>rmat.txt
+rz -E
+**000000
+mv rmat.txt major/
+cd major/
+sudo apt-get install lrzsz
+mkdir lib
+cd lib/
+rz -E
+ls
+cd ..
+javac
+cd ..
+javac
+cd major/
+ls
+cd lib/
+ls
+cd ..
+javac
+java
+java -cp lib/*.*
+sudo java -cp lib/*.*
+cat > GaussianRandomization.java
+cat  GaussianRandomization.java
+sudo java -cp lib/*.*
+javac
+javac -classpath lib/*.jar GaussianRandomization.java 
+javac -classpath lib/jgraph-5.13.0.0.jar GaussianRandomization.java 
+sudo javac -classpath lib/jgraph-5.13.0.0.jar GaussianRandomization.java 
+sudo javac -classpath lib/*.jar GaussianRandomization.java 
+wget http://downloads.sourceforge.net/project/jgrapht/JGraphT/Version%200.9.1/jgrapht-0.9.1.tar.gz?r=http%3A%2F%2Fjgrapht.org%2F&ts=1455180454&use_mirror=nchc
+ls
+mv jgrapht-0.9.1.tar.gz\?r=http%3A%2F%2Fjgrapht.org%2F jgrapht-0.9.1.tar.gz
+tar -xvf jgrapht-0.9.1.tar.gz 
+sudo javac -classpath jgrapht-0.9.1/lib/*.* GaussianRandomization.java 
+sudo javac -classpath jgrapht-0.9.1/lib/*.* GaussianRandomization.java
+sudo javac -classpath jgrapht-0.9.1/lib/*.jar GaussianRandomization.java
+sudo javac -classpath /home/ubuntu/jgrapht-0.9.1/lib/*.jar GaussianRandomization.java
+df
+exi
+htop
+sudo sarg -x
+cd usr/share/nginx/html
+cd/ usr/share/nginx/html
+cd /usr/share/nginx/html
+ls
+wget https://zima117e.storage.yandex.net/rdisk/1d3086c7b58df00842de5a4ebdbc091397abad0f3e2139467213a7326fcee271/56bddaa7/NMJuwgrvsk98eGuBbXmESQAot1bd7XCFMZeRgg7oM81Crg9ChvE5aMVvqBJPiLXIqP-RExfQ9FblF5W4kfsbTA==?uid=0&filename=ROM_Lollipop_v2_%28rom_VovaN%29CWM.zip&disposition=attachment&hash=gbHvOh9xL65Ro7sbzvF0UCjmrJ8Il/oJcopmkND1j0Y%3D&limit=0&content_type=application%2Fx-zip-compressed&fsize=368755074&hid=a50026498ce47b8052fea0378438cee8&media_type=compressed&tknv=v2&rtoken=eFgnCERxqa9G&force_default=no&ycrid=na-5a50c1fa7234b8e81e3af8ef6adfaffd-downloader14d
+wget https://zima117e.storage.yandex.net/rdisk/06198f4e1531484383e19a473e4ba70b42e3561670351e24ec284cefca12e93a/56bddb6f/NMJuwgrvsk98eGuBbXmESQAot1bd7XCFMZeRgg7oM81Crg9ChvE5aMVvqBJPiLXIqP-RExfQ9FblF5W4kfsbTA==?uid=0&filename=ROM_Lollipop_v2_%28rom_VovaN%29CWM.zip&disposition=attachment&hash=gbHvOh9xL65Ro7sbzvF0UCjmrJ8Il/oJcopmkND1j0Y%3D&limit=0&content_type=application%2Fx-zip-compressed&fsize=368755074&hid=a50026498ce47b8052fea0378438cee8&media_type=compressed&tknv=v2&rtoken=i5hKaubDAC69&force_default=no&ycrid=na-6eb0511dcd6dd90f1eea5f2bece8d693-downloader1g
+wget http://s12.nitroflare.com/d/7d2587ef14d2c8c503bb12c5d308dd4d/Case%20Studies%20inSanet.me.part1.rar
+df
+wget https://zima157h.storage.yandex.net/rdisk/a84b254c69d42beb9c41111e5acb397da5d3aa03aa8d26aa4274c9c7947ba1a6/56c6dc3a/JlKQ-8f7JuEn7BPtkY1i2Uah-90nNzpLx3bE2pXkBXZudh8ELqGHBdmwkG1n_5pwY9lTFR2fq4PyNG7lp5hpqA==?uid=0&filename=Xap%20%C4%B0nstaller.rar&disposition=attachment&hash=TicKYI%2BodzkKWGFFp62ORbI5gw5RRbgyo4PGDCFdw4c%3D&limit=0&content_type=application%2Fx-rar&fsize=200892570&hid=e0003bce7ec7df8e05da578ccf54241d&media_type=compressed&tknv=v2&rtoken=XIE3IEFePZ9M&force_default=no&ycrid=na-35587618d118e283752ba0a1a319aee4-downloader1h
+clear
+sudo netstat -tupln
+sudo service shellinabox restart
+ls
+rm Case\ Studies\ inSanet.me.part1.rar 
+cd major/
+ls
+cd ..
+sudo service nginx stop
+sudo service nginx start
+wget https://d6.usercdn.com/d/x4lrjbw5t52fvxijg3xzlgycbfkqns775ontrzvv52u2umwpa46fzy5s/B612_Selfie_from_the_heart_v4.4.1_(Unlocked).apk
+sudo wget https://d6.usercdn.com/d/x4lrjbw5t52fvxijg3xzlgycbfkqns775ontrzvv52u2umwpa46fzy5s/B612_Selfie_from_the_heart_v4.4.1_(Unlocked).apk
+wget https://d6.usercdn.com/d/x4lrjbw5t52fvxijg3xzlgycbfkqns775ontrzvv52u2umwpa5efpppl/B612_Selfie_from_the_heart_v4.4.1_(Unlocked).apk
+wget http://dl1.revdownload.com/dl1/1601/Asphalt_8_Airborne_v2.3.0i_OGL2_Revdl.com.rar 
+rm Asphalt_8_Airborne_v2.3.0i_OGL2_Revdl.com.rar 
+ls
+exit
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+cd /lost+found/
+cd /var
+cd log/squid3/
+l
+ls
+tail access.log
+sudo tail access.log
+sudo nano  access.log
+sudo tail access.log
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+dfdf
+df
+ls
+cd ~/
+ls
+cd /home/praba/
+ls
+rm *.apk
+sudo rm *.apk
+ls
+cd /
+ls
+cd ut
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+sudo rm *.torrent
+ls
+rm -r www.TamilRockers.com\ -\ Kathakali\ \(2016\)\[DVDScr\ -\ x264\ -\ 1CDRip\ -\ 700MB\ -\ Tamil\]/www.TamilRockers.com\ -\ Kathakali\ \(2016\)\[DVDScr\ -\ x264\ -\ 1CDRip\ -\ 700MB\ -\ Tamil\].mkv 
+ls
+df
+ls
+cd /usr/share/nginx/html
+ls
+rm torrent.zip 
+rm a.tar.gz 
+ls
+df
+df acc.tar.gz 
+ls
+df
+rm -rf ~/.local/share/Trash/*
+df
+exit
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+cd /opt
+l
+ls
+cd utorrent-server-alpha-v3_3/
+ls
+./utserver -d
+./utserver -deamon
+./utserver -daemon
+ls
+exit
+cd /opt/utorrent-server-alpha-v3_3
+ls
+mv Daddys.Home.2015.720p.BRRip.850MB.MkvCage.mkv daddy.mkv
+mv daddy.mkv /usr/share/nginx/html/
+sudo  reboot
+cd /usr/share/nginx/html/
+rm daddy.mkv 
+df
+cd youtube/
+ls
+cd downloads/
+ls
+cd /opt/utorrent-server-alpha-v3_3/
+ls 
+sudo utserver -daemon
+sudo ./utserver -daemon
+ls
+exit
+cd /opt/utorrent-server-alpha-v3_3
+ls
+mv Ip.Man.3.2015.720p.BRRip.900MB.MkvCage.mkv ipman3.mkv
+mv ipman3.mkv /  usr/share/nginx/html/
+mv ipman3.mkv /usr/share/nginx/html/
+ls
+sudo chmod +
+sufo chmod -R 777  /usr/share/nginx/html/
+sudo chmod -R 777  /usr/share/nginx/html/
+cd /usr/share/nginx/html
+ls
+cd /opt/
+cd utorrent-server-alpha-v3_3/
+ls
+cd ls
+dir
+mv Kadhalum-Kadandhu-Pogum-2016-Tamil-Movie-Mp3-Songs-Mp3bakery.com-320Kbps.zip kat.zip
+mv kat.zip /usr/share/nginx/html
+cd /usr/share/nginx/jtml
+cd /usr/share/nginx/html
+ls
+rm ipman3.mkv 
+ls
+df
+rm kat.zip
+sudo rm kat.zip
+ls
+rm XVS.4.0.1.96.rar 
+ls
+df
+Does
+rm Does.mp4 
+ls
+cd yo
+cd youtube/
+ls
+cd downloads/
+ls
+rm Android_-_Friends_Furever-Android.mp4  Mariamman_Thalattu_-_Bombay_Saradha-Bombay_Saradha.m4a 
+ls
+df
+ls
+cd ..
+wget http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.androidapksfree.com%2Fapk%2Fopera-browser-android-apk-latest-version-download%2F
+wget http://rigel.androidapksfree.com/habu/com.opera.browser_v35.0.2070.100283-1903500200_Android-4.1.apk
+mv com.opera.browser_v35.0.2070.100283-1903500200_Android-4.1.apk  opera.apk
+wget http://rigel.androidapksfree.com/habu/org.mozilla.firefox_v44.0.2-2015400201_Android-3.0.apk
+mv org.mozilla.firefox_v44.0.2-2015400201_Android-3.0.apk  mozilla.apk
+mv /opt/utorrent-server-alpha-v3_3/Point.Break.2015.WEBRip.XViD-ETRG/Point.Break.2015.WEBRip.XViD-ETRG.avi  
+mv /opt/utorrent-server-alpha-v3_3/Point.Break.2015.WEBRip.XViD-ETRG/Point.Break.2015.WEBRip.XViD-ETRG.avi   /usr/share/nginx/html/
+ls
+mv Point.Break.2015.WEBRip.XViD-ETRG.avi  point.avi
+cd 
+.
+cd /usr/share/nginx/html
+cd /usr/share/nginx
+sudo chmod -R 777 html/
+ls
+cd html
+ls
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+cd www.TamilRockers.cc\ -\ Kadhalum\ Kadandhu\ Pogum\ \(2016\)\[DVDScr\ -\ x264\ -\ 700MB\ -\ Tamil\]/
+ls
+mv www.TamilRockers.cc.png  j
+mv www.TamilRockers.cc\ -\ Kadhalum\ Kadandhu\ Pogum\ \(2016\)\[DVDScr\ -\ x264\ -\ 700MB\ -\ Tamil\].mkv kadal.mkv
+mv kadal.mkv /usr/share/nginx/html
+xd /usr/share/nginx/html/html
+cd /usr/share/nginx/jtml
+cd /usr/share/nginx/htmll
+cd /usr/share/nginx/html
+ls
+chown +x kadal.mkv 
+chown a+x kadal.mkv 
+chown u+x kadal.mkv 
+cd..
+cd ..
+sudo chmod -R 777 html/
+ls
+cd /usr/share/nginx/html
+ls
+wget http://rigel.androidapksfree.com/habu/com.facebook.katana_v66.0.0.33.73-23966353_Android-4.0.3.apk
+mv com.facebook.katana_v66.0.0.33.73-23966353_Android-4.0.3.apk  face.apk
+wget http://rigel.androidapksfree.com/habu/com.google.android.apps.plus_v7.3.0.115084102-415272405_Android-4.4.apk
+mv com.google.android.apps.plus_v7.3.0.115084102-415272405_Android-4.4.apk  google.apk
+ls
+wget http://rigel.androidapksfree.com/habu/com.whatsapp_v2.12.519-451004_Android-2.1.apk
+mv com.whatsapp_v2.12.519-451004_Android-2.1.apk  what.apk
+ls
+cd /use/share/nginx/html
+cd /user/share/nginx/html
+cd /usr/share/nginx/html
+wget http://rigel.androidapksfree.com/habu/com.google.android.apps.plus_v7.3.0.115084102-415272405_Android-4.4.apk
+ls
+rm face.apk google.apk 
+mv com.google.android.apps.plus_v7.3.0.115084102-415272405_Android-4.4.apk  google.apk
+ls
+df
+sudo sarg -x
+cd /usr/share/nginx/htmlls
+l
+cd /usr/share/nginx/html
+ls
+cd /usr/share/nginx
+chmos -R 777 html/
+chmod -R 777 html/
+sudo chmod -R 777 html/
+ls
+cd jtml
+cs html
+ls
+cd html
+ls
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+mv mv Crouching.Tiger.Hidden.Dragon.Sword.of.Destiny.2016.720p.HDRiP.850MB.ShAaNiG.mkv tiger.mkv
+mv Crouching.Tiger.Hidden.Dragon.Sword.of.Destiny.2016.720p.HDRiP.850MB.ShAaNiG.mkv tiger.mkv
+mv tiger.mkv /usr/share/nginx/html
+cd /usr/share/nginx/html
+ls
+rm google.apk
+rm tiger.mkv 
+df
+cd /usr/share/nginx/html
+ls
+rm what.apk 
+ls -ll
+cd /usr/share/nginx/html
+wget https://download.apkpure.com/c/APK/713/012e03280d468c51?fn=7Zipper%202%200_v2.4.2_apkpure.com.apk&k=9a1974fbebdce5236243fd16ad63329a56f0478a&p=org.joa.zipperplus7v2&c=1%7CPRODUCTIVITY
+ls
+ls l
+ls -l
+wget http://googleweblight.com/?lite_url=http://www.apk20.com/apk/270862/start&lc=en-IN&s=1&m=882&host=www.google.co.in&ts=1457982880&sig=APY536zA54cwn2G5ZXH2s8LHBGanPugNGg
+ls
+rm index.html\?lite_url=http\:%2F%2Fwww.apk20.com%2Fapk%2F270862%2Fstart 
+ls
+rm shareArticle\?mini=true 
+ls
+wget http://storage.evozi.com/apk/dl/15/02/25/org.joa.zipperplus7.apk?h=75RSeCJ_iwnDOqfiDb3ssA&t=1457986403
+ls
+ls -l
+rm org.joa.zipperplus7.apk\?h=75RSeCJ_iwnDOqfiDb3ssA 
+ls
+wget http://storage.evozi.com/apk/dl/15/02/25/org.joa.zipperplus7.apk?h=tfjTXYVW7czG4-X6nLXEjg&t=1457986450 
+l
+ls
+rm org.joa.zipperplus7.apk\?h=tfjTXYVW7czG4-X6nLXEjg 
+ls
+sudo nano /etc/squid3/squid.conf
+sudo servixe squid3 restart
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+exit
+cd /usr/share/nginx/html
+ls
+wget http://d10.premiumleecher.com/2/?file=85f0929871
+ls
+mv index.html\?file=85f0929871 retrica.apk
+ls -l
+sudo killall -int utserver
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+sudo ./utserver -daemon
+ls
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+cd Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/
+ls
+cd ..
+tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/
+tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/*
+sudo tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/*
+ls
+sudo tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/* theri.tar.gz
+sudo tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/* theri
+ls
+ls -l
+cls
+clear
+ls
+Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/
+ls
+cd Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/
+ls
+ks
+ls
+cd ..
+
+cd Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/ tar
+sudo tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/* theri.tar.gz
+cd ..
+ls
+sudo tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/* t.tar.gz
+sudo tar -cvf Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/*
+ld
+ls -l
+tar -cvf
+tar --help
+sudo tar -cf theri.tar.zip Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs
+ls
+mv theri.tar.zip  /usr/share/nginx/html/
+ls
+cd /opt/utorrent-server-alpha-v3_3/
+ls
+cd Theri\ \[2016\]\ Tamil\ iTunes\ untouched\ Full\ Songs/
+ls
+sudo tar -cf theri.tar.zip *.*
+ls
+ls -l
+ls -la
+sudo tar -cf theri.tar.zip *.m4a
+ls
+ls -l
+ls
+rm theri.tar.zip 
+sudo rm theri.tar.zip 
+ls
+cd ..
+ls
+ls -la
+ls
+rn www.TamilRockers.com\ -\ 
+ls
+ls -la
+ls
+clear
+sudi
+whoami
+mab sysinfo
+sysinfo
+htop
+ls
+cd PaRMAT-master/
+ls
+cd Release/
+ls
+sudo ./PaRMAT 
+cd ..
+cd GTgraph-master/
+ls
+cd R-MAT/
+ls
+sudo ./GTgraph-rmat 
+sudo ./GTgraph-rmat -options
+sudo ./GTgraph-rmat -option
+sudo ./GTgraph-rmat 
+cd ..
+ls
+cd random/
+ls
+./GTgraph-random 
+./GTgraph-random -n 50 -m 50 -o a.txt
+nano a.txt
+df
+ls
+sudo file -s /dev/xvd*
+df
+lsblk
+df
+ls
+./speedtest-cli 
+htop
+sudo service tinyproxy stop
+dpkg -l
+sudo dpkg -l > dpkg.txt
+sudo apt-get remove tinyproxy 
+ls
+netstat -tupnl
+sudo service squid3 start
+netstat -tupnl
+sudo netstat -tupnl
+htop
+df
+df -l
+sudo df -l
+cd /opt/utorrent-server-alpha-v3_3/
+sudo ./utserver -daemon
+ls
+rm www.Tamil.*
+ls
+tar -cvf www.TamilRockers.com\ -\ Pichaikkaran\ \[2016\]\[Tamil\ -\ Mp3\ -\ 320Kbps\]\[Vijay\ Antony\ Musical\]/
+sudo tar -cvf www.TamilRockers.com\ -\ Pichaikkaran\ \[2016\]\[Tamil\ -\ Mp3\ -\ 320Kbps\]\[Vijay\ Antony\ Musical\]/
+sudo tar -cvf pichaikaran.tar www.TamilRockers.com\ -\ Pichaikkaran\ \[2016\]\[Tamil\ -\ Mp3\ -\ 320Kbps\]\[Vijay\ Antony\ Musical\]/
+ls
+rm www.*
+sudo rm www.*
+sudo rm -r www.*
+ls
+rm *.torrent
+sudo rm *.torrent
+ls
+rm R\ Programming\ for\ Data\ Science/
+sudo rm -r R\ Programming\ for\ Data\ Science/
+ls
+sudo rm -r Mastering\ Linux\ Network\ Administration/
+ls
+mv pichaikaran.tar /usr/share/nginx/html
+cd /usr/share/nginx/html
+ls
+rm theri.tar.gz 
+sudo rm theri.tar.gz 
+ls
+ls  -l
+ls  -la
+df
+chown
+chown --help
+df
+htop
+ls
+./speedtest-cli 
+df
+ls
+sudo nano /etc/squid3/squid
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+sudo nano /etc/squid3/squid.conf
+sudo service squid3 restart
+cd /
+ls
+cd /var/log/squid3/
+ls
+sudo nano access.log
+ls
+./speedtest-cli 
+wget http://d1.premiumleecher.com/1/?file=1b8174db73
+./speedtest-cli 
+ls
+mv index.html\?file=1b8174db73 cleanmaster.apk
+mv cleanmaster.apk /usr/share/nginx/html/
+exit
+ls
+./speedtest-cli 
+ls
+df
+whoami
+./speedtest-cli 
+ls
+cd GTgraph-master/
+ls
+cd R-MAT/
+ls
+nano a.txt
+cd /usr/share/nginx
+ls
+cd htm
+cd html
+ls
+rm pichaikaran.tar 
+sudo rm pichaikaran.tar 
+ls
+rm j.exe 
+sudo rm j.exe
+ls
+rm cleanmaster.apk 
+ls
+cd ..
+cd ~/
+l
+cd GTgraph-master/
+cd R-MAT/
+ls
+sudo nano config
+sudo nano config.me 
+sudo ./GTgraph-rmat 
+sudo nano config.me 
+ls
+sqladmin
+sql
+mysqladmin
+mysqladmin -u root -p praba
+mysqladmin -u root 
+mysqladmin -u root -p
+mysqladmin -user root -p
+mysqladmin root@localhost  user root -p
+mysqladmin -help
+mysql -u root -p
+sudo nano  /etc/mysql/my.cnf
+sudo service mysql restart
+mysql -u root -p
+GGÙÅ°ƒñ¡g…äÀH£u|™ìè4Ã[A
+mysql -u root -p
+cd /var/lib/tomcat6/webapps/KASE/
+ls
+cd WEB-INF/
+ls
+cd lib/
+ls
+cd ..
+cd classes/
+ls
+sudo nano databasecon.java 
+sudo service tomcat6 restart
+mysql -u root -p
+cd d ~/
+cd ~/
+cd /var/lib/tomcat6/webapps/
+wget https://doc-10-4g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/l7e4513g5jjhue3fbdn55bkebaqmro47/1461340800000/13324216567997331369/*/0Bz7A6rJcTjx_bHNaOVlUTkt0Q2c?e=download
+ls
+mv 0Bz7A6rJcTjx_bHNaOVlUTkt0Q2c\?e=download a.zip
+unzip a.zip
+sudo service tomcat6 restart
+cd KASE
+LS
+ls
+sudo nano reginsert.jsp 
+mysql
+mysql -u root -p
+sudo apt-get remove mysql-server
+sudo apt-get install mysql-server
+mysql -r root -p
+sudo /etc/init.d/mysql stop
+sudo mysqld --skip-grant-tables &
+mysql -u root mysql
+sudo mysqld --skip-grant-tables &
+mysql -u root mysql
+mysql -u root 
+mysql -u root mysql
+sudo service mysql stop
+sudo mysqld --skip-grant-tables &
+sudo mysqld --skip-grant-tables & sudo mysqld --skip-grant-tables &
+sudo mysqld --skip-grant-tables & mysql -u root mysql
+ls
+cd ..
+ls
+cd webapps/
+ls
+sudo chmod -R 777 KASE/
+cd ..
+sudo chmod -R 777 tomcat6/
+ls
+cd tomcat6/
+ls
+cd webapps/
+l
+cd KASE/
+sudo nano reginsert.jsp 
+sudo service tomcat6 restart
+mysql -u root -p
+d ..
+cd ..
+wget https://doc-14-4g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/iq80o443c0o7sng09l425qr3tife1449/1461348000000/13324216567997331369/*/0Bz7A6rJcTjx_WGY1andGZWpsUFE?e=download
+ls
+mv 0Bz7A6rJcTjx_WGY1andGZWpsUFE\?e=download b.zip
+unzip b.zip
+ls 
+cd ..
+unzip b.zip
+cd ..
+sudo chmod -R 777 tomcat6/
+cd tomcat6/
+ls
+cd webapps/
+ls
+cd IBE
+ls
+sudo nano reginsert.jsp 
+cd WEB-INF/
+ls
+cd classes/
+ls
+java databasecon.java
+javac databasecon.java 
+ls
+mv databasecon.class /var/lib/tomcat6/webapps/IBE/WEB-INF/classes/databaseconnection/databasecon.class 
+sudo mv databasecon.class /var/lib/tomcat6/webapps/IBE/WEB-INF/classes/databaseconnection/databasecon.class 
+cd databaseconnection/
+ls
+ls -l
+sudo service tomcat6 restart
+cd ..
+sudo nano databasecon.java 
+javac databasecon.java 
+sudo mv databasecon.class /var/lib/tomcat6/webapps/IBE/WEB-INF/classes/databaseconnection/databasecon.class 
+sudo service tomcat6 restart
+cd ..
+wget https://doc-14-4g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/iq80o443c0o7sng09l425qr3tife1449/1461348000000/13324216567997331369/*/0Bz7A6rJcTjx_WGY1andGZWpsUFE?e=download
+ls
+mv 0Bz7A6rJcTjx_WGY1andGZWpsUFE\?e=download b.zip
+unzip b.zip 
+ls
+cd ..
+sudo chmod -R 777 webapps/
+ls
+sudo service tomcat6 restart
+cd webapps/IBE/
+cd WEB-INF/
+ls
+cd classes/
+ls
+sudo nano databasecon.java
+javac databasecon.java
+sudo nano databasecon.java
+sudo mv databasecon.class /var/lib/tomcat6/webapps/IBE/WEB-INF/classes/databaseconnection/databasecon.class 
+cd ..
+sudo chmod -R 777 IBE/
+sudo service tomcat6 restart
+cd ..
+cd webapps/
+ls
+sudo unzip b.zip 
+ls
+cd IBE/
+ls
+cd ..
+ls
+ls -l
+cd IBE/
+sudo nano fileupload.jsp 
+sudo nano fileupload1.jsp 
+sudo nano fileupload4.jsp 
+cd ..
+wget https://doc-0s-4g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/1sre48jp85bdsqqasduc7k1agf6plbs8/1461348000000/13324216567997331369/*/0Bz7A6rJcTjx_bERpa05jX2l3NUE?e=download
+mv 0Bz7A6rJcTjx_bERpa05jX2l3NUE\?e=download b.zip
+sudo unzip b.zip 
+ls
+cd IBE/
+sudo nano fileupload4.jsp 
+ls
+./speedtest-cli 
+exit
+cd /var/lib/tomcat6/webapps/IBE/
+ls
+sudo nano kukeyupdate2.jsp 
+sudo nano kukeyupdate3.jsp 
+sudo service tomcat6 restart
+mkdir mail
+cd ma
+cd mail
+sudo apt-get install composite
+sudo apt-get install composer
+wget https://getcomposer.org/installer
+ls
+installer
+./installer
+sudo ./installer
+sudo apt-get install curl php5-cli git
+ls
+installer
+./installer
+sudo ./installer
+sud installer
+curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+vi installer 
+composer
+sudo composer require phpmailer/phpmailer
+cd ..
+sudo chmod -R 777 mail/
+cd ma
+cd mail
+ls
+sudo composer require phpmailer/phpmailer
+composer require phpmailer/phpmailer
+sudo composer require phpmailer/phpmailer
+ls
+cd vendor/
+ls
+cd ..
+sudo nano mail.php
+sudo php -S 0.0.0.0:80
+sudo nano mail.php
+sudo cat mail.php
+sudo cat>mail.php
+sudo rm mail.php
+sudo nano mail.php
+sudo php -S 0.0.0.0:80
+sudo nano mail.php
+sudo php -S 0.0.0.0:80
+sudo rm mail.php
+sudo nano mail.php
+sudo php -S 0.0.0.0:80
+sudo nano mail.php
+sudo rm mail.php 
+sudo nano mail.php
+sudo php -S 0.0.0.0:80
+sudo rm mail.php 
+sudo nano mail.php
+sudo php -S 0.0.0.0:80
+sudo php -S 0.0.0.0:80 -deamon
+sudo php -S 0.0.0.0:80 -daemon
+sudo php -S 0.0.0.0:80 &
+exi
+exit
+sudo php -S 0.0.0.0:80 &
+sudo killall -int php
+sudo php -S 0.0.0.0:80 
+sudo php -S 0.0.0.0:80 &
+sudo killall -int php
+sudo php -S 0.0.0.0:80 
+sudo killall -int php
+cd mail
+ls
+sudo php -S 0.0.0.0:80 &
+sudo rm mail.php 
+sudo nano mail.php
+sudo php -S 0.0.0.0:80 &
+exit
+cd /var/lib/tomcat6/webapps/
+ls
+wget https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/541ck5f8nm05flfmhskat4bsg2rffi3e/1461506400000/13324216567997331369/*/0Bz7A6rJcTjx_NmdVdUV1aXh6NGs?e=download
+mv 0Bz7A6rJcTjx_NmdVdUV1aXh6NGs\?e=download tachi.zip
+sudo unzip tachi.zip 
+ls
+cd ..
+sudo chmod -R 777 webapps/
+cd webapps/
+cd EfficientMultiKeyword/
+ls
+cd WEB-INF/lib/
+ls
+wget http://central.maven.org/maven2/org/apache/struts/struts2-core/2.3.15.3/struts2-core-2.3.15.3.jar
+ls
+cd ..
+sudo chmod -R 777 lib/
+sudo service tomcat6 restart
+ls
+cd lib/
+ls
+rm struts2-core-2.3.15.3.jar 
+ls
+wget http://a.mbbsindia.com//struts/2.3.28.1/struts-2.3.28.1-min-lib.zip
+ls
+unzip struts-2.3.28.1-min-lib.zip 
+cd struts-2.3.28.1/lib/
+ls
+mv *.jar /var/lib/tomcat6/webapps/EfficientMultiKeyword/WEB-INF/lib/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+sudo chmod -R 777 lib/
+ls
+cd lib/
+ls
+wget http://central.maven.org/maven2/org/apache/struts/struts2-core/2.3.15.3/struts2-core-2.3.15.3.jar
+ls
+cd ..
+sudo chmod -R 777 lib/
+cd ..
+sudo service tomcat6 restart
+cd ~/
+ls
+cd ma
+cd mail
+ls
+sudo killall -int php
+sudo php -S 0.0.0.0:80
+sudo php -S 0.0.0.0:80 &
+exit
+cd mail
+ls
+sudo php -S 0.0.0.0:80 &
+sudo apt-get install filezilla
+filezilla 
+sudo apt-get remove filezilla
+sudo apt-get install samba
+sudo nano /etc/samba/smb.conf 
+ls
+sudo nano /etc/samba/smb.conf 
+sudo mkdir samba
+sudo chmod -R 777 samba/
+sudo service samba restart 
+sudo smbpasswd -a praba
+sudo service samba restar
+sudo smbpasswd -a praba
+lsexit
+cd /var/lib/tomcat6/webapps/
+ls
+wget https://drive.google.com/open?id=0Bz7A6rJcTjx_X051ck1OVTZSdmM
+ls
+ls -l
+wget https://doc-00-4g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/1dgbl0h7jjqkeubci806ho240hov9sic/1461607200000/13324216567997331369/*/0Bz7A6rJcTjx_X051ck1OVTZSdmM?e=download
+ls
+rm open\?id=0Bz7A6rJcTjx_X051ck1OVTZSdmM 
+ls
+mv 0Bz7A6rJcTjx_X051ck1OVTZSdmM\?e=download  d.zip
+ls
+unzip d.zip 
+ls
+htop
+mysql -u root -p
+ysql -u root -p
+mysql -u root -p
+cd /var/lib/tomcat6/webapps/
+ls
+wget https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/d9flssk26ktspai4aaergdgcb531cc4b/1461607200000/13324216567997331369/*/0Bz7A6rJcTjx_amdEWUxPTms5OVE?e=download
+ls
+mv 0Bz7A6rJcTjx_amdEWUxPTms5OVE\?e=download  aa.zip
+unzip aa.zip 
+ls
+cd ..
+sudo chmod -R 777 webapps/
+ls
+cd webapps/
+cd ~/
+./speedtest-cli 
+cd mail/
+ls
+wget https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwjaqfO_36zMAhXCC44KHctMDAQQFgg0MAY&url=http%3A%2F%2Fwww.creativewebdesign.ro%2Fsitecwd%2Fuploads%2F2013%2F06%2FEmmet-Cheat-Sheet.pdf&usg=AFQjCNFUk_WVTN5xw7KpNF173aLUvKfJSg&sig2=FcD5uz0mMvCiQSjDk2dHpw
+ls
+ls -l
+ls -ls
+mv url\?sa=t Emmet-Cheat-Sheet.pdf
+ls
+wget http://www.creativewebdesign.ro/sitecwd/uploads/2013/06/Emmet-Cheat-Sheet.pdf
+ls
+sudo wget http://www.creativewebdesign.ro/sitecwd/uploads/2013/06/Emmet-Cheat-Sheet.pdf
+wget https://raw.githubusercontent.com/prabaprakash/Idea/master/Emmet-Cheat-Sheet.pdf
+ls
+rm Emmet-Cheat-Sheet.pdf
+mv Emmet-Cheat-Sheet.pdf.1 Emmet-Cheat-Sheet.pdf
+sudo nano mail.php 
+sudo service tomcat6 stop
+sudo killall -int php
+sudo service nginx start 
+cd /usr/share/nginx/html/
+ls
+wget https://api.greymeter.com/apis/media/user_resume/34913/af378121-a0ee-4c5b-aaec-191a8a85fcff.pdf
+ls
+mv af378121-a0ee-4c5b-aaec-191a8a85fcff.pdf  Prabakaran_A.pdf 
+sudp mv af378121-a0ee-4c5b-aaec-191a8a85fcff.pdf  Prabakaran_A.pdf 
+sudo mv af378121-a0ee-4c5b-aaec-191a8a85fcff.pdf  Prabakaran_A.pdf 
+exit
+wget http://repository.rainloop.net/v2/webmail/rainloop-latest.zip
+ls
+unzip rainloop-latest.zip 
+ls
+cd rainloop/
+ls
+cd rainloop/
+sudo cd rainloop/
+cd ma
+ls -l
+sudo aptitude install gftp
+gftp
+gftp d
+gftp waws-prod-sg1-005.ftp.azurewebsites.windows.net/site/wwwroot
+mkdir translator
+ls
+cd t
+cd translator/
+wget https://github.com/Stichoza/google-translate-php/archive/master.zip
+ls
+unzip
+unzip master.zip 
+ls
+cd google-translate-php-master/
+ls
+compose
+composer
+composer install
+sudo composer install
+ls
+cd src/
+cd ..
+sudo chmod -R 777 translator/
+cd translator/google-translate-php-master/
+ls
+cd src/
+ls
+cd ..
+cd tests/
+ls
+cd ..
+php -S 0.0.0.0:808
+sudo php -S 0.0.0.0:808
+cd vendor/
+ls
+cd ..
+sudo nano index.php
+sudo php -S 0.0.0.0:808
+cd ..
+cd google-translate-php-master/
+ls
+cd src/
+ls
+cd st
+cd ..
+sudo nano index.php
+sudo php -S 0.0.0.0:808
+sudo nano index.php
+sudo php -S 0.0.0.0:808
+sudo nano index.php
+cd src/
+cd Stichoza/GoogleTranslate/
+ls
+cd ..
+sudo nano index.php
+sudo php -S 0.0.0.0:808
+ls
+cd..
+cd ..
+cd google-translate-php-master/
+ls
+cd src/
+ls
+cd Stichoza/
+ls
+cd GoogleTranslate/
+ls
+cd ..
+cd..
+ls
+cd .. 
+cd ..
+ls
+cd google-translate-php-master/
+cd ..
+rm -r translator/
+sudo rm -r translator/
+mkdir translator
+cd translator/
+ls
+composer require stichoza/google-translate-php
+sudo composer require stichoza/google-translate-php
+ls
+sudo nano index.php
+php -S  localhost:8080
+php -S  0.0.0.0:8080
+ls
+cd vendor/
+ls
+cd ..
+sudo nano
+php -S  0.0.0.0:8080
+cd ..
+sudo chmod -R 777 translator/
+ls
+cd t
+cd translator/
+ls
+cd vendor/
+ls
+cdcd stichoza/
+ls
+cd stichoza/
+ls
+cd google-translate-php/
+ls
+cd src/
+ls
+cd st
+cd ..
+ls
+nano autoload.php 
+ls
+cd guzzlehttp/
+ks
+ls
+cd guzzle/
+ls'
+
+s
+ls
+cd ..
+d ...
+cd ..
+ls
+php -S  0.0.0.0:8080
+ls
+cd vendor/
+ls
+cd ..
+sudo nano index.php 
+php -S  0.0.0.0:8080
+sudo nano index.php 
+cd vendor/
+cd stichoza/
+ls
+cd google-translate-php/
+ls
+cd src/
+ls
+cd Stichoza/
+ls
+cd GoogleTranslate/
+ls
+cd `
+cd ~/
+ls
+cd translator/
+ls
+sudo nano index.php 
+php -S  0.0.0.0:8080
+sudo nano index.php 
+php -S  0.0.0.0:8080
+cd ..
+rm -r translator/
+echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 642AC823
+sudo apt-get update
+sudo apt-get install sbt
+ls
+sbt
+wget https://github.com/bio4j/bio4j/archive/master.zip
+ls
+unzip master.zip 
+rm master.zip
+mv master.zip.1 master.zip
+unzip master.zip 
+ls
+rm rainloop
+rm -r rainloop
+sudo rm -r rainloop
+cd data
+s
+sudo cd data
+ls
+sudo rm -r data/
+ls
+cd bio4j-master/
+ls
+sudo sbt
+sudo sbt -mem 512
+s
+ls
+cd project/
+ls
+cd target/
+ls
+cd s
+cd scala-2.10/
+ls
+cd sbt-0.13/
+ls
+cd ..
+cd..
+cd ..
+;s
+cd bio4j-master/
+ls
+df
+cd notes/
+ls
+cd ..
+cd project/
+ls
+cd target/
+ls
+exit
+r
+sudo apt-get install gdebi-core
+wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb
+sudo gdebi rstudio-server-0.99.896-amd64.deb
+sudo rstudio-server verufy
+sudo rstudio-server verify-installation
+sudo nano /etc/rstudio/rserver.conf
+sudo rstudio-server restart
+sudo rstudio-server
+sudo rstudio-server start
+sudo rstudio-server restart
+sudo rstudio-server start
+sudo nano /etc/rstudio/rsession.conf
+htop
+exit
+apt-get -y build-dep libcurl4-gnutls-dev
+apt-get -y install libcurl4-gnutls-dev
+sudo apt-get -y build-dep libcurl4-gnutls-dev
+sudo apt-get -y install libcurl4-gnutls-dev
+cd /home/praba/
+ls
+sudo chmod -R 777 R\ Studio/
+cd R\ Studio/
+ls
+sudo apt-get build-dep libxml2-dev
+exit
+htop
+sudo su - -c "R -e \"install.packages('shiny', repos='https://cran.rstudio.com/')\""
+sudo su - -c "R -e \"install.packages('shiny', repos='https://cran.rstudio.com/')\""
+sudo apt-get install r-base
+sudo su - -c "R -e \"install.packages('shiny', repos='https://cran.rstudio.com/')\""
+r
+Rscript -V
+Rscript -version
+Rscript version
+Rscript v
+Rscript
+Rscript --version
+R --version
+ls
+mkdir
+mkdir rstudio setup
+mvls
+ls
+sudo mkdir rsetup
+mv rstudio-server-0.99.896-amd64.deb  shiny-server-1.4.2.786-amd64.deb  rsetup/
+uso mv rstudio-server-0.99.896-amd64.deb  shiny-server-1.4.2.786-amd64.deb  rsetup/
+sudo  mv rstudio-server-0.99.896-amd64.deb  shiny-server-1.4.2.786-amd64.deb  rsetup/
+ls
+cd rsetup/
+ls
+sudo gdebi shiny-server-1.4.2.786-amd64.deb
+ls
+sudo nano /etc/shiny-server/shiny-server.conf 
+sudo su -   -c "R -e \"install.packages('shiny', repos='http://cran.rstudio.com/')\""
+sudo shiny-server restart
+sudo shiny-server stop
+sudo service  shiny-server stop
+sudo service  shiny-server start
+sudo apt-get install rs
+udo apt-ge  remove
+sudo apt-get remove rs
+sudo apt-get upgrade
+ls
+Rscript --version
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9  
+df
+sudo apt-get update  
+sudo apt-get install r-base r-base-dev  
+sudo su -   -c "R -e \"install.packages('shiny', repos='http://cran.rstudio.com/')\""
+sudo nano ~/.bash_history
+sudo cp  ~/.bash_history cmd.txt
+ls
+sls -l
+ls -l
+sudo apt-get install git
+git
+ls
+cd ..
+ls
+rm google-chrome-beta_current_amd64.deb 
+ls
+rm bio4j-master/
+rm -r bio4j-master/
+sudo rm -r bio4j-master/
+rm master.zip 
+ls
+sudo mkdir TimePass
+cd TimePass/
+ls
+sudo cp  ~/.bash_history cmd.txt
+ls
+git init
+sudo git init
+Rscript --version
+ls
+cd TimePass/
+echo "# TimePass" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:prabaprakash/TimePass.git
+git push -u origin master
+sudo su
+exit
+ls
+cd TimePass/.git/
+ls
+cd ..
+ls
+ssh -T git@github.com
+ls
+sudo nano praba
+clear
+cat praba
+sudo cat praba
+ssh -T git@github.com
+sudo ssh -T git@github.com
+ssh-add praba
+sudo ssh-add praba
+ssh -T git@github.com
+sudo ssh -T git@github.com
+cd ~/.ssh && ssh-keygen
+ls
+cat praba.pub | xclip
+sudo apt-get install xclip
+cat praba.pub | xclip
+sudo cat praba.pub | xclip
+sudo apt-get remove xclip
+sudo cat praba.pub
+git config --global user.name "prabaprakash"
+sudo ssh -T git@github.com
+ssh -vT git@github.com
+sudo ssh -vT git@github.com
+cd ~/
+ls
+cd TimePass/
+ls
+rm *.*
+sudo rm *.*
+ls
+sudo rm *.*
+ls
+rm 9 
+sudo rm 9 
+ls
+rm praba 
+sudo rm praba 
+ls
+clear
+ls
+exit
